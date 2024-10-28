@@ -1,3 +1,4 @@
+
 ---
 title: How to create your own AI chatbot for free!
 description: 
@@ -42,3 +43,4 @@ At the moment, Linux is the only OS that has install via terminal for Ollama. It
 3. **Once it finishes running, Ollama is now installed!**
 
 ## Downloading the Llama model
+Now that Ollama is installed, you can now start running llms
